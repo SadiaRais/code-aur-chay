@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.button {
+  background: rgb(233, 119, 119);
+  margin: 1vw;
+  border: none;
+}
+h2 {
+  background-color: rgb(190, 252, 252);
+  padding: 0.5vw;
+  padding: 0.5rem;
+}
